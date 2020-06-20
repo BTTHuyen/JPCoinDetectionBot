@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.o
 *.dSYM
 *.csv
@@ -25,3 +26,8 @@ ehthumbs.db
 Icon?
 Thumbs.db
 *.swp
+=======
+config.txt
+testFile.jpg
+*.pyc
+>>>>>>> 7a629df30fbff15c8ed63b7953006e9842ce0f13
